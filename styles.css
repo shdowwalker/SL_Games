@@ -1,0 +1,118 @@
+body{
+    background-color: #f6f9fc;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: #020744;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    border-radius: 10px;
+    float: right;
+
+}
+.logimg{
+    float: right;
+}
+.tables{
+    padding: 30px;
+}
+.para1{
+    font-size: 20px;
+    padding-left: 10px;
+    text-align: center;
+}
+table{
+    border: 2px solid black;
+    padding: 10px;
+    width: 100%;
+
+}
+td{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.nevi:hover{
+    text-decoration: underline;
+    background-color: #3b87f154;
+    border-radius: 10px;
+}
+.logimg{
+    width: 40px;
+    height: 40px;  
+}
+.nevi,.neviL{
+    text-decoration: none;
+    font-style: none;
+    list-style-type: none;
+    display: inline;
+    padding: 30px;
+    color: #9ca1a8;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-attachment: fixed;
+}
+
+.nvb {
+    display: block;
+    width: auto;
+    background-color: #1c3e68;
+    padding: 10px;
+    border-radius: 10px;
+    background-attachment: fixed;
+
+}
+.subpara{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 50px;
+    margin-top: 200px;
+    margin-right: 100px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: #3e93d823;
+    border-radius: 15px;
+
+}
+.active{
+
+    background-color: rgb(255, 230, 0);
+    border-radius: 10px;
+    padding: 20px;
+    font-size: larger;
+    color: #000000;
+    font-weight: bolder;
+}
+.arimac{
+    font-style: none;
+    font-weight: bold;
+    color: #000000;
+}
+
+.content{
+    padding: 30px;
+
+}
+.Gdcom{
+    padding: 30px;
+}
+div{
+    padding-left: 10px;
+}
+.fbg{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #0070f18c;
+    padding-left: none;
+    padding-right: none;
+    text-align: center;
+    color: rgb(229, 255, 0);
+    font-weight: bold;
+    border-radius: 10px;
+    background-attachment: fixed;
+    font-size: larger;
+
+}
